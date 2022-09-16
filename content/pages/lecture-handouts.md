@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a template for taking notes during class, sample
+  notes using the template, and handouts that summarize the key peoples, concepts
+  and places covered in each lecture of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
